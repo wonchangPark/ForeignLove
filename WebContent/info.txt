@@ -1,0 +1,7 @@
+gmail : foreign.love.2020@gmail.com
+password : moosong980208
+
+http://fallinlove.powerlinux.co.kr:8080/manager
+id : tomcat
+pw : project123
+http://fallinlove.powerlinux.co.kr:8080/
